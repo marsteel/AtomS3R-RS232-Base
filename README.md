@@ -1,5 +1,5 @@
 # AtomS3R-RS232-Base-Video-code-and-resources
-Sample code and Pinout diagram for the youtube video discussing RS-232 communication on the M5AtomS3R with RS232-Base
+Sample code and Pinout diagram for the youtube video discussing RS-232 communication on the M5Stack AtomS3R with Atomic RS232 Base
 
 Youtube Video
 https://www.youtube.com/watch?v=Noiei7ue4Jk
