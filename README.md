@@ -1,8 +1,10 @@
 # AtomRS232-Video-code-and-resources
 Sample code and Pinout diagram for the youtube video discussing RS-232 communication on the M5AtomS3R
 
-Youtube Video for ATOM Lite ESP32 IoT Development Kit
+Youtube Video
 https://www.youtube.com/watch?v=Noiei7ue4Jk
+
+YouTube video is based on the ATOM Lite ESP32 IoT Development Kit. But if you're working with the AtomS3R, be sure to update the GPIO numbers in the code to match the AtomS3R pinout.
 
 ## Clarifying GPIO Usage on ATOM Lite vs AtomS3R with RS232 Base
 
