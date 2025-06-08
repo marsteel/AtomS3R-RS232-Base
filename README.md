@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=Noiei7ue4Jk
 
 YouTube video is based on the ATOM Lite ESP32 IoT Development Kit. But if you're working with the AtomS3R, be sure to update the GPIO numbers in the code to match the AtomS3R pinout.
 
+There is an Python examaple for AtomS3R at https://github.com/m5stack/uiflow-micropython/blob/e986468074072d51ba2b1af2aa646765890ddb9c/examples/base/rs232/atoms3r_rs232_example.py which `from base import AtomRS232`
+
 ## Clarifying GPIO Usage on ATOM Lite vs AtomS3R with RS232 Base
 
 The ATOM Lite ESP32 IoT Development Kit uses GPIO22 (TX) and GPIO19 (RX) for serial communication. These pins are also labeled as such on accessories like the RS232 Base, which was originally designed with the ATOM Lite in mind.
